@@ -1,7 +1,5 @@
-# Born2beroot – 42 project
-
 <div align="center">
-  <h2>Born2beroot – Virtual Machine & Security</h2>
+  <h1>Born2beroot – Virtual Machine & Security</h1>
   <img src="./img/born_to_be_root.png"/>
   <br>
 </div>
@@ -126,9 +124,13 @@ This project is the original version that was evaluated at 42 and will remain in
 ---
 
 ## 👤 Credits
-Project configured by **Loïc Gérard** – student at [École 42 Perpignan](https://42perpignan.fr).  
+Project developed by **Loïc Gérard** – 📧 Contact: lgerard@studend.42perpignan.fr - [École 42 Perpignan](https://42perpignan.fr).
 
 ---
 
 ## 📜 License
-MIT License – see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. You are free to use, modify, and distribute it - see the [LICENSE](./LICENSE) file for details.
+
+> ⚠️ **Note for students**  
+> If you are a student at 42 (or elsewhere), it is strongly recommended **not to copy/paste** this code.  
+> Instead, try to **write your own solution** — it’s the only way to really learn and succeed.
