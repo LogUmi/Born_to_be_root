@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>Born2beroot – Virtual Machine & Security</h2>
-  <img src="./img/born_to_be_root.png" height="180"/>
+  <img src="./img/born_to_be_root.png"/>
   <br>
 </div>
 
